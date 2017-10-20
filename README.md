@@ -8,15 +8,15 @@
 
 ### Sunset Glow
 
-A mobile app that aims to build a platform for old people aged over 70s to join more social activities so as to eliminate social isolation and enhance social connections.  
+A mobile app that aims to build a platform for old people aged over 70s to join more social activities so as to eliminate social isolation and enhance social connections.
 
-* Paper Prototype
+* Paper Prototype  
 https://www.youtube.com/watch?v=fbKa8HL6Apk
 
-* Digital Prototype
+* Digital Prototype  
 https://tangtangchn.github.io/axure-prototypes/
 
-* Usability Evaluation
+* Usability Evaluation  
 tobii eye tracking  
 https://www.youtube.com/watch?v=xCPaxfMxgsE
 
